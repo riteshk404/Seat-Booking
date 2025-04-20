@@ -135,7 +135,7 @@ function App() {
                       {/* Middle Walking Space */}
                       <div className="w-4 sm:w-16 flex items-center justify-center">
                         <div className="text-gray-400 text-[8px] sm:text-sm rotate-90">
-                          Taking to the mooooonnnnnnnnnnn Space
+                          Waalking Space
                         </div>
                       </div>
 
