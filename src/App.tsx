@@ -107,7 +107,7 @@ function App() {
                   Select Your Seats
                 </h2>
 
-                {/* Room Layout */}
+                {/* Room Layout according to bca lab */}
                 <div className="relative bg-gray-50 rounded-md sm:rounded-xl p-2 sm:p-8 border-2 border-gray-200">
                   <div className="w-full">
                     {" "}
