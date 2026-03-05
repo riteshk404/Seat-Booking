@@ -1,4 +1,4 @@
-Seats booking system 
+Seat booking system 
 
 
 
